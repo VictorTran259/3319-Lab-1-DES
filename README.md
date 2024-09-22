@@ -5,7 +5,7 @@
 2. sys - for the standard library operations
 3. pyDes - to perfrom DES encryption and decryption operations
 
-## Project Files:
+## Project Files
 1. server.py
 2. client.py
 3. key.txt
@@ -29,7 +29,7 @@ disconnect it from the server.
 
 **programdesign.txt** - The file you're looking at right now and the documentation for my project.
 
-## How to test project:
+## How to test project
 1. Open up two terminals
 2. Run the server on one terminal using python server.py and the client on the other terminal using python client.py
 3. Go to the client terminal first and type a message to be sent to the server. The key, plaintext message, and ciphertext message should all be printed out by the client.
